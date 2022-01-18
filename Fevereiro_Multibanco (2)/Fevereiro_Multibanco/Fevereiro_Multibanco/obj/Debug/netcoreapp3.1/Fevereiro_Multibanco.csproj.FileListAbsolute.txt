@@ -1,0 +1,13 @@
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\bin\Debug\netcoreapp3.1\Fevereiro_Multibanco.exe
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\bin\Debug\netcoreapp3.1\Fevereiro_Multibanco.deps.json
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\bin\Debug\netcoreapp3.1\Fevereiro_Multibanco.runtimeconfig.json
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\bin\Debug\netcoreapp3.1\Fevereiro_Multibanco.runtimeconfig.dev.json
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\bin\Debug\netcoreapp3.1\Fevereiro_Multibanco.dll
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\bin\Debug\netcoreapp3.1\Fevereiro_Multibanco.pdb
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\obj\Debug\netcoreapp3.1\Fevereiro_Multibanco.csprojAssemblyReference.cache
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\obj\Debug\netcoreapp3.1\Fevereiro_Multibanco.AssemblyInfoInputs.cache
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\obj\Debug\netcoreapp3.1\Fevereiro_Multibanco.AssemblyInfo.cs
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\obj\Debug\netcoreapp3.1\Fevereiro_Multibanco.csproj.CoreCompileInputs.cache
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\obj\Debug\netcoreapp3.1\Fevereiro_Multibanco.dll
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\obj\Debug\netcoreapp3.1\Fevereiro_Multibanco.pdb
+C:\Users\1A.DESKTOP-J81JHKL\source\repos\Fevereiro_Multibanco\Fevereiro_Multibanco\obj\Debug\netcoreapp3.1\Fevereiro_Multibanco.genruntimeconfig.cache
